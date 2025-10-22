@@ -1,0 +1,29 @@
+# ---------------- Basics ----------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+.venv/
+._venv/
+dist/
+build/
+*.egg-info/
+.gptcache/
+readme/
+*.zip
+*.txt
+save_stage.sh
+
+# env and locals secrets
+.env
+*.env
+*._env
+*.md.full
+*.DS_Store
+
+
+# Big files
+*.db
+*.sqlite
+*.ipynb
